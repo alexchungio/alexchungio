@@ -1,5 +1,5 @@
--  I am currently a second year Ph.D. student at Nanjing University, supervised by [Tong Lu](https://cs.nju.edu.cn/lutong/index.htm). 
--  I received my bachelor degree at the [Department of Computer Science and Technology](https://cs.nju.edu.cn), Nanjing University in 2020.
+-  I am currently working on computer vision at Xiamen. 
+-  I received my bachelor degree at the Fuzhou University in 2019.
 
 <!--
 Here are some ideas to get you started:
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![zhiqi-li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhiqi-li&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![alexchungio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchungio&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Related source is copied from: https://kilienazure.com/github-profile-readme/
