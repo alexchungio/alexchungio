@@ -1,4 +1,4 @@
--  I am currently working on computer vision at Xiamen. 
+-  I am currently working on computer vision at Xiamen, Fujian. 
 -  I received my bachelor degree at the Fuzhou University in 2019.
 
 <!--
