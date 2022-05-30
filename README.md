@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alexchungio's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexchungio&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="aLEXCHUNGIO GITHUB STATUS"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexchungio&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="ALEXCHUNGIO MOST USED LANGUAGES"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexchungio&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
 
 <!--
-Related source is copied from: https://kilienazure.com/github-profile-readme/
+Related source is copied from: https://github.com/anuraghazra/anuraghazra/README.md
 -->
+
